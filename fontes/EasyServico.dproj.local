@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/26 19:38:02.000.300,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/08 23:29:04.000.787,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:00:40.000.944,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:03:04.000.852,D:\RepositorioEasy\EasyServico\fontes\views\Splash.pas=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:03:04.000.852,D:\RepositorioEasy\EasyServico\fontes\views\Splash.dfm=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 02:03:35.000.300,D:\RepositorioEasy\EasyServico\fontes\EasyServico.dproj=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/07 02:11:42.000.393,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:12:10.000.841,D:\RepositorioEasy\EasyServico\fontes\componentes\uDM.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:12:10.000.841,D:\RepositorioEasy\EasyServico\fontes\componentes\uDM.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 02:13:20.000.637,=D:\RepositorioEasy\Util\Util.pas</Transaction>
+    <Transaction>2020/05/07 02:13:20.000.602,=D:\RepositorioEasy\Util\Funcoes.pas</Transaction>
+    <Transaction>2020/05/07 02:13:20.000.570,=D:\RepositorioEasy\Util\Constants.pas</Transaction>
+    <Transaction>2020/05/07 02:13:38.000.714,=D:\RepositorioEasy\Util\uCxMsg.pas</Transaction>
+    <Transaction>2020/05/07 02:13:58.000.703,=D:\RepositorioEasy\Util\ufMensagensBox.pas</Transaction>
+    <Transaction>2020/05/07 02:14:57.000.990,=D:\RepositorioEasy\Util\MkDirMul.pas</Transaction>
+    <Transaction>2020/05/07 02:41:35.000.135,D:\RepositorioEasy\Util\uCxMsg.pas=</Transaction>
+    <Transaction>2020/05/07 02:47:31.000.943,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:47:44.000.559,D:\RepositorioEasy\EasyServico\fontes\views\Login.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 02:47:44.000.559,D:\RepositorioEasy\EasyServico\fontes\views\Login.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 03:02:03.000.450,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:02:26.000.211,D:\RepositorioEasy\EasyServico\fontes\model\Model.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:03:35.000.322,D:\RepositorioEasy\EasyServico\fontes\model\Model.User=</Transaction>
+    <Transaction>2020/05/07 03:04:06.000.624,=D:\RepositorioEasy\EasyServico\fontes\model\Model.User.pas</Transaction>
+    <Transaction>2020/05/07 03:05:15.000.236,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:08:35.000.691,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:08:53.000.513,D:\RepositorioEasy\EasyServico\fontes\model\Model.Base.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:14:16.000.327,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:15:07.000.397,D:\RepositorioEasy\EasyServico\fontes\controler\Controller.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:15:29.000.468,D:\RepositorioEasy\EasyServico\fontes\controler\Controller.User=</Transaction>
+    <Transaction>2020/05/07 03:15:46.000.832,=D:\RepositorioEasy\EasyServico\fontes\controler\Controller.User.pas</Transaction>
+    <Transaction>2020/05/07 03:40:08.000.361,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 03:40:49.000.729,D:\RepositorioEasy\EasyServico\fontes\componentes\BuilderDAO.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 04:02:08.000.066,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 04:02:52.000.716,D:\RepositorioEasy\EasyServico\fontes\views\Principal.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 04:02:52.000.716,D:\RepositorioEasy\EasyServico\fontes\views\Principal.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 05:24:52.000.275,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 05:28:29.000.484,D:\RepositorioEasy\EasyServico\fontes\views\Principal.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 05:28:29.000.483,D:\RepositorioEasy\EasyServico\fontes\views\Principal.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:12:19.000.222,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:12:38.000.649,D:\RepositorioEasy\EasyServico\fontes\views\Clientes.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:12:38.000.649,D:\RepositorioEasy\EasyServico\fontes\views\Clientes.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 06:19:45.000.979,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:20:20.000.516,D:\RepositorioEasy\EasyServico\fontes\views\Usuarios.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 06:20:20.000.516,D:\RepositorioEasy\EasyServico\fontes\views\Usuarios.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:35:39.000.706,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:36:02.000.826,D:\RepositorioEasy\EasyServico\fontes\views\Servicos.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 06:36:02.000.826,D:\RepositorioEasy\EasyServico\fontes\views\Servicos.dfm=D:\RepositorioEasy\EasyServico\fontes\Unit1.dfm</Transaction>
+    <Transaction>2020/05/07 06:52:23.000.810,=D:\RepositorioEasy\EasyServico\fontes\Unit2.pas</Transaction>
+    <Transaction>2020/05/07 06:52:58.000.414,D:\RepositorioEasy\EasyServico\fontes\Unit2.pas=D:\RepositorioEasy\EasyServico\fontes\views\Pesquisar.Ordem.pas</Transaction>
+    <Transaction>2020/05/07 06:52:58.000.414,D:\RepositorioEasy\EasyServico\fontes\Unit2.dfm=D:\RepositorioEasy\EasyServico\fontes\views\Pesquisar.Ordem.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
