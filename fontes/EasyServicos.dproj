@@ -163,9 +163,9 @@
         <DCCReference Include="views\Usuarios.pas">
             <Form>fUsuarios</Form>
         </DCCReference>
-        <DCCReference Include="..\..\Util\MkDirMul.pas"/>
         <DCCReference Include="model\Model.ItensOS.pas"/>
         <DCCReference Include="controler\Controller.ItensOS.pas"/>
+        <DCCReference Include="..\..\..\Util\MkDirMul.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

@@ -1,33 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2018/11/26 19:38:02.000.300,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/12/08 23:29:04.000.787,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/05/08 16:10:38.000.158,=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/05/08 16:11:14.000.233,D:\RepositorioEasy\EasyServico\fontes\EasyServicos.dproj=D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2020/05/08 16:11:24.000.800,=D:\RepositorioEasy\EasyServico\fontes\componentes\BuilderDAO.pas</Transaction>
-    <Transaction>2020/05/08 16:11:27.000.555,=D:\RepositorioEasy\EasyServico\fontes\componentes\uDM.pas</Transaction>
-    <Transaction>2020/05/08 16:11:40.000.207,=D:\RepositorioEasy\EasyServico\fontes\controler\Controller.User.pas</Transaction>
-    <Transaction>2020/05/08 16:11:46.000.723,=D:\RepositorioEasy\EasyServico\fontes\model\Model.Base.pas</Transaction>
-    <Transaction>2020/05/08 16:11:46.000.735,=D:\RepositorioEasy\EasyServico\fontes\model\Model.User.pas</Transaction>
-    <Transaction>2020/05/08 16:11:52.000.818,=D:\RepositorioEasy\EasyServico\fontes\views\Ordem.pas</Transaction>
-    <Transaction>2020/05/08 16:11:52.000.773,=D:\RepositorioEasy\EasyServico\fontes\views\Login.pas</Transaction>
-    <Transaction>2020/05/08 16:11:52.000.671,=D:\RepositorioEasy\EasyServico\fontes\views\Clientes.pas</Transaction>
+    <Transaction>2020/05/08 16:11:14.000.233,D:\DadosUsuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\RepositorioEasy\EasyServico\fontes\EasyServicos.dproj</Transaction>
     <Transaction>2020/05/08 16:11:53.000.723,=D:\RepositorioEasy\EasyServico\fontes\views\Servicos.pas</Transaction>
-    <Transaction>2020/05/08 16:11:53.000.860,=D:\RepositorioEasy\EasyServico\fontes\views\Splash.pas</Transaction>
     <Transaction>2020/05/08 16:11:53.000.572,=D:\RepositorioEasy\EasyServico\fontes\views\Principal.pas</Transaction>
     <Transaction>2020/05/08 16:11:53.000.092,=D:\RepositorioEasy\EasyServico\fontes\views\Pesquisar.Ordem.pas</Transaction>
-    <Transaction>2020/05/08 16:11:54.000.042,=D:\RepositorioEasy\EasyServico\fontes\views\Usuarios.pas</Transaction>
     <Transaction>2020/05/08 16:14:03.000.416,=D:\RepositorioEasy\Util\MkDirMul.pas</Transaction>
-    <Transaction>2020/05/12 01:08:18.000.089,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
-    <Transaction>2020/05/12 01:08:43.000.938,D:\RepositorioEasy\EasyServico\fontes\Unit1.pas=D:\RepositorioEasy\EasyServico\fontes\model\Model.ItensOS.pas</Transaction>
-    <Transaction>2020/05/12 01:11:12.000.344,=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
-    <Transaction>2020/05/12 01:12:18.000.149,D:\RepositorioEasy\EasyServico\fontes\Unit1.pas=D:\RepositorioEasy\EasyServico\fontes\controler\Controller.ItensOS.pas</Transaction>
+    <Transaction>2020/05/12 01:08:43.000.938,D:\RepositorioEasy\EasyServico\fontes\model\Model.ItensOS.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/05/12 01:12:18.000.149,D:\RepositorioEasy\EasyServico\fontes\controler\Controller.ItensOS.pas=D:\RepositorioEasy\EasyServico\fontes\Unit1.pas</Transaction>
+    <Transaction>2020/07/24 01:45:19.413,=D:\RepositorioEasy\Util\MkDirMul.pas</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="D:\RepositorioEasy"/>
-    <File Path="..\..\Util"/>
-    <File Path="..\..\Util\MkDirMul.pas"/>
+    <File Path="..\..\..\Util"/>
+    <File Path="..\..\..\Util\MkDirMul.pas"/>
     <File Path="componentes"/>
     <File Path="componentes\BuilderDAO.pas"/>
     <File Path="componentes\Factory.Forms.pas"/>

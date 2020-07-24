@@ -26,9 +26,9 @@ uses
   Servicos in 'views\Servicos.pas' {fServicos},
   Splash in 'views\Splash.pas' {fSplash},
   Usuarios in 'views\Usuarios.pas' {fUsuarios},
-  MkDirMul in '..\..\Util\MkDirMul.pas',
   Model.ItensOS in 'model\Model.ItensOS.pas',
-  Controller.ItensOS in 'controler\Controller.ItensOS.pas';
+  Controller.ItensOS in 'controler\Controller.ItensOS.pas',
+  MkDirMul in '..\..\..\Util\MkDirMul.pas';
 
 {$R *.res}
 
